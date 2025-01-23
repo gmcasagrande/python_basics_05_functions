@@ -159,3 +159,58 @@ def day_of_year(year, month, day):
 
 print(day_of_year(2000, 12, 31))
 ```
+\
+\
+*as tarefas 6, 7, 8 e 9 não são códigos para resolver, apenas para visalizar e responder*
+# 6) Qual a saída do trecho de código?
+```python
+def hi():
+  return
+  print("Oi!")
+ 
+hi()
+```
+\
+\
+*as tarefas 6, 7, 8 e 9 não são códigos para resolver, apenas para visalizar e responder*
+# 7) Qual a saída do trecho de código?
+```python
+def is_int(data):
+  if type(data) == int:
+    return True
+  elif type(data) == float:
+    return False
+ 
+print(is_int(5))
+print(is_int(5.0))
+print(is_int("5"))
+```
+\
+\
+*as tarefas 6, 7, 8 e 9 não são códigos para resolver, apenas para visalizar e responder*
+# 8) Qual a saída do trecho de código?
+```python
+def even_num_lst(ran):
+  lst = []
+  for num in range(ran):
+    if num % 2 == 0:
+      lst.append(num)
+    return lst
+ 
+print(even_num_lst(11))
+```
+\
+\
+*as tarefas 6, 7, 8 e 9 não são códigos para resolver, apenas para visalizar e responder*
+# 9) Qual a saída do trecho de código?
+```python
+def list_updater(lst):
+  upd_list = []
+  for elem in lst:
+    elem **= 2
+    upd_list.append(elem)
+  return upd_list
+ 
+foo = [1, 2, 3, 4, 5]
+print(list_updater(foo))
+```
