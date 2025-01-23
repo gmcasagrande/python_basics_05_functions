@@ -1,8 +1,6 @@
 # python_basics_functions
 Learning Python. Using def
 - def
-- loops
-- lists
 - return
 - None
 
