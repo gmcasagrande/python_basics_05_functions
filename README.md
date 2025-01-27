@@ -159,7 +159,7 @@ print(day_of_year(2000, 12, 31))
 ```
 \
 \
-*as tarefas 6, 7, 8 e 9 não são códigos para resolver, apenas para visalizar e responder*
+*as tarefas 6, 7, 8 e 9 não são códigos para resolver, apenas para visualizar e responder*
 # 6) Qual a saída do trecho de código?
 ```python
 def hi():
@@ -170,7 +170,7 @@ hi()
 ```
 \
 \
-*as tarefas 6, 7, 8 e 9 não são códigos para resolver, apenas para visalizar e responder*
+*as tarefas 6, 7, 8 e 9 não são códigos para resolver, apenas para visualizar e responder*
 # 7) Qual a saída do trecho de código?
 ```python
 def is_int(data):
@@ -185,7 +185,7 @@ print(is_int("5"))
 ```
 \
 \
-*as tarefas 6, 7, 8 e 9 não são códigos para resolver, apenas para visalizar e responder*
+*as tarefas 6, 7, 8 e 9 não são códigos para resolver, apenas para visualizar e responder*
 # 8) Qual a saída do trecho de código?
 ```python
 def even_num_lst(ran):
@@ -199,7 +199,7 @@ print(even_num_lst(11))
 ```
 \
 \
-*as tarefas 6, 7, 8 e 9 não são códigos para resolver, apenas para visalizar e responder*
+*as tarefas 6, 7, 8 e 9 não são códigos para resolver, apenas para visualizar e responder*
 # 9) Qual a saída do trecho de código?
 ```python
 def list_updater(lst):
